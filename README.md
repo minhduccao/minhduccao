@@ -19,6 +19,7 @@ I'm Minhduc Cao (he/him), a software developer, fresh university graduate, and s
 
 ![](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Expo-000020.svg?&style=flat-square&logo=Expo&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Sheets-34A853.svg?&style=flat-square&logo=googlesheets&logoColor=white)
 
