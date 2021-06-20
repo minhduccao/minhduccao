@@ -28,3 +28,5 @@ I'm Minhduc Cao (he/him), a software developer, fresh university graduate, and s
 <!-- ![Top Langs](https://github-readme-stats-minhduccao.vercel.app/api/top-langs/?username=minhduccao&layout=compact&theme=gotham)] -->
 
 <sub> GitHub Stats provided by https://github.com/anuraghazra/github-readme-stats. <sup>
+
+![](https://komarev.com/ghpvc/?username=minhduccao&style=flat-square&color=2aa889)
